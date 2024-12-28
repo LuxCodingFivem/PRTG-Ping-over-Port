@@ -1,7 +1,7 @@
 """
 My Python Script
 
-Copyright (c) 2024 Liam Weckbecker
+Copyright (c) 2024 LuxCoding
 
 This script is licensed under the MIT License.
 For full details, see the LICENSE file in the repository.

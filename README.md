@@ -1,7 +1,7 @@
 # PRTG-Ping-over-Port
 PRTG Custom Sensor to ping a server over Port to Chech Applikation or Game Server 
 
-#Installation 
+# Installation 
 
 1. Download Ping over Port.py
 2. Open Python file and edit the Translation in line 17
